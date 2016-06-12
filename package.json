@@ -1,5 +1,6 @@
 {
   "name": "medium-hilight-off",
+  "version": "0.0.3",
   "private": true,
   "engines": {
     "node": ">=0.8.0"
