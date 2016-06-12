@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "Medium Hilight Off",
+    "message": "Medium Highlight Off",
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "Turn off Medium hilight menu",
+    "message": "Turn off Medium highlight menu when selecting text",
     "description": "The description of the application"
   }
 }

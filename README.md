@@ -1,5 +1,5 @@
-# Medium Hilight Off
-![icon](app/images/icon-16.png "icon") Chrome extention to turn off Medium.com hilight when selecting text
+# Medium Highlight Off
+![icon](app/images/icon-16.png "icon") Chrome extension to turn off Medium.com highlight when selecting text
 
 ![icon](app/images/screenshot.png "screenshot")
 
