@@ -21,6 +21,8 @@ https://chrome.google.com/webstore/detail/medium-hilight-off/lfhbdbplpphacepappp
     # build package
     gulp build
 
+## License
+MIT
 
 ## Credits
 
