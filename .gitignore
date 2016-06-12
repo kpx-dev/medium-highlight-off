@@ -1,0 +1,11 @@
+dist.crx
+dist.pem
+node_modules
+temp
+.tmp
+dist
+.sass-cache
+app/bower_components
+test/bower_components
+package
+app/scripts
