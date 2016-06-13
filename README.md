@@ -4,7 +4,7 @@
 ![icon](app/images/screenshot.png "screenshot")
 
 ## Install
-https://chrome.google.com/webstore/detail/medium-hilight-off/lfhbdbplpphacepapppdobnenkfimagn
+https://chrome.google.com/webstore/detail/medium-highlight-off/lfhbdbplpphacepapppdobnenkfimagn
 
 ## Contribute
 
