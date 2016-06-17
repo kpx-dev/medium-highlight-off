@@ -27,3 +27,5 @@ MIT
 ## Credits
 
 Icon: https://thenounproject.com/search/?q=hilight&i=127693
+
+Part of Open Idea Project: https://github.com/kienpham2000/projects
